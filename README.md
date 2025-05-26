@@ -32,3 +32,5 @@ This project was developed with the assistance of Microsoft Copilot, which helpe
 * Expense Management – Enter food & essential item costs 
 * Budget Forecasting – Predict future expenses based on past trends 
 * Interactive Charts – Analyze price fluctuations
+* Savings Optimization – Ensure spending stays within budget
+## ![student budget dashboard pic](https://github.com/user-attachments/assets/a3fe4044-18ef-4a1a-a81e-047298a177fc)
