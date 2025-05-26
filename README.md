@@ -1,6 +1,5 @@
 # An-Excel-Based-Budgeting-Tool-for-Nigerian-Students
 This project is a dynamic Excel dashboard designed to help Nigerian students predict and manage their monthly expenses based on fluctuating food prices. It features price forecasting, expense tracking, and savings management, empowering students to optimize their budgets effectively.
-Student Budget Dashboard.
 
 ## Overview
 Managing monthly expenses as a student can be challenging, especially with rising food prices. This interactive Excel dashboard helps students predict their future spending, optimize budgets, and track savings goals, ensuring they make smart financial decisions.
