@@ -18,7 +18,8 @@ Managing monthly expenses as a student can be challenging, especially with risin
 ## How It Works
 1. Enter Monthly Expenses & Savings Goals. 
 1. View Food Price Predictions for Next Month.  
-1. Analyze Spending Trends via Interactive Charts. 
+1. Analyze Spending Trends via Interactive Charts.
+2. Can update charts by refreshing PivotTableS.
 1. Adjust Budget Based on Forecasts.
 
 ## How Copilot Helped Build This Project
